@@ -76,6 +76,14 @@
         padding-right: 15px;
         margin-bottom: 4% !important;
     }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: white !important;
+    }
+
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: white !important;
+    }
 }
 
 .produtos {
@@ -114,4 +122,14 @@
 
 #sabor {
     margin-right: 3% !important;
+}
+
+header .navbar {
+    background: #e32b2b !important;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black !important;
+    background: white !important;
+    font-weight: 500 !important;
 }
